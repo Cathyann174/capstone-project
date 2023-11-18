@@ -26,6 +26,8 @@ Modeling and Evaluation
 
 A logistic regression model was used to determine the factors that are influential in whether employees’ would stay or leave the company. The plot below shows satisfaction level, last evaluation, number of projects, average monthly hours, and tenure are the most important factors in determining whether an employee will stay or leave. The overall model performed with 82% accuracy and 79% precision.
 
+![image](https://github.com/Cathyann174/capstone-project/assets/126407081/f83cf411-973f-4b9d-a085-f8fa27eefdd9)
+
 
 Conclusion
 
