@@ -9,6 +9,7 @@ The goal of the project was to create a logistic regression model to predict whe
 Business Understanding
 
 According to labour.gov.tt normal work month is 166.67 hours and employees that work overtime are entitled to overtime rates. Salifort Motors employees’ worked ~210-280 hours per month for the same salary. It is important to understand what factors encouraged employees’ to leave the company.
+![image](https://github.com/Cathyann174/capstone-project/assets/126407081/6a73f5c8-1a6d-4326-ab95-e85b8734d04c)
 
 
 Data Understanding
