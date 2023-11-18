@@ -14,6 +14,11 @@ According to labour.gov.tt normal work month is 166.67 hours and employees that 
 Data Understanding
 
 The Salifort Motors data set came from the human resource department. The data consisted of approximately 14,999 rows of different employees’ self reported information and 10 features. The features included information on satisfaction level, last evaluation, number of projects, average monthly hours, tenure, and promotion in the last five years. The chart below shows the breakdown of how many employees’ stayed and left by department.
+![image](https://github.com/Cathyann174/capstone-project/assets/126407081/46c395ea-8c9c-44ea-91fa-f953f51ba5b7)
+
+
+
+
 
 
 Modeling and Evaluation
